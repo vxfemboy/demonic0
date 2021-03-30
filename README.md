@@ -3,7 +3,7 @@ A discord bot that has been requested highly among the community of bot deveplop
 
 coded in javascript and python
 
-this bot was coded to be a very helpful tool in moderation and more within discord
+this bot was coded to be a very helpful tool in moderation and more within discord and other chat applications
 
 ## Warning
 Using this bot incorrectly will violate discords terms of use, I am not liable for anything you do with this bot, source, or your accounts
