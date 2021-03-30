@@ -14,6 +14,8 @@ Using this bot incorrectly will violate discords terms of use, I am not liable f
 
 
 ## Todo:
+autojoin & find
+
 copypasta && note support
 
 owoify and pirate talk
