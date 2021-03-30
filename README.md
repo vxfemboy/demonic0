@@ -7,6 +7,10 @@ coded in javascript and python
 Using this bot incorrectly will violate discords terms of use, I am not liable for anything you do with this bot or this source
 
 
+# To Run:
+```python3 demonic.py```
+
+
 ## Todo:
 copypasta && note support
 
