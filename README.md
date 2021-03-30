@@ -1,6 +1,8 @@
 # demonic0
 A discord bot that has been requested highly among the community of bot deveplopers and enthusisats
 
+coded in javascript and python
+
 ## Warning
 Using this bot incorrectly will violate discords terms of use, I am not liable for anything you do with this bot or this source
 
