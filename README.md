@@ -1,17 +1,22 @@
 # demonic0
-A discord bot that has been requested highly among the community
+A discord bot that has been requested highly among the community of bot deveplopers and enthusisats
+
+# Warning
+Using this bot incorrectly will violate discords terms of use, I am not liable for anything you do with this bot or this source
 
 
-Todo:
-add sniper
+# Todo:
+copypasta && note support
 
-add embed disable
+owoify and pirate talk
+
+embed disable
 
 seperate config file
 
 nuke - raid protection
 
-ai training
+ai chat training
 
 communicate through bot
 
@@ -19,7 +24,7 @@ webhooks
 
 mathmatics - cryptography options
 
-auto farm dank memer
+auto farms 
 
 pgp encrypt messages
 
@@ -27,7 +32,7 @@ message logger option
 
 color embed option
 
-proxy gen 
+proxy scrape 
 
 crypto wallet
 
@@ -36,3 +41,13 @@ blockchain explorer
 telegram intergration
 
 irc intergration
+
+pre-revamp
+
+owner transfer
+
+multi-bot
+
+react intergration
+
+terminal support
