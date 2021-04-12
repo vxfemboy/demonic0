@@ -8,6 +8,6 @@ class demonic0(discord.Client):
 if token != '':
     print(f'{Fore.GREEN}Starting Up....'+Fore.RESET)
     CLIENT = demonic0()
-    CLIENT.run(token, bot=False)
+    CLIENT.run(token)
 else:
     print(f'{Fore.RED}[ERROR] config file invalid')
